@@ -1,5 +1,5 @@
 # vue3-use-form
-A vue3 hooks library to make working with forms easier, including instant validation, per field validation and entire form validation and state management.
+A reactive vue3 hooks library to make working with forms easier, including instant validation, per field validation and entire form validation and state management, custom validator functions, returning error types that later can be translated via i18n libraries.
 
 
 ## Example Usage
